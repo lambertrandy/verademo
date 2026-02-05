@@ -1,4 +1,4 @@
-#Randy forked this repo Feb 4 2026 to test verademo using SNYK and learn how to run vulnerability scans
+**#Randy forked this repo Feb 4 2026 to test verademo using SNYK and learn how to run vulnerability scans**
 
 # VeraDemo - Blab-a-Gag
 
